@@ -96,6 +96,10 @@ gedit hdfs-site.xml
 ```
 and paste this in configuration section
 ```bash
+<property> 
+ <name>dfs.replication</name> 
+ <value>1</value> 
+</property>
 <property>
 <name>dfs.namenode.name.dir</name>
 <value>/home/{username}/hadoop2-dir/namenode-dir</value>
