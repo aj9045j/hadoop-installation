@@ -90,7 +90,7 @@ and paste this in configuration section
 ```
 save the file and close it
 
-b) now to open hdfs-site.xml by
+b) now open hdfs-site.xml by
 ```bash
 gedit hdfs-site.xml
 ```
@@ -107,7 +107,7 @@ and paste this in configuration section
 ```
 make sure to edit the path and save it then close it
 
-c) now to open mapred-site.xml by
+c) now open mapred-site.xml by
 ```bash
 gedit mapred-site.xml
 ```
@@ -128,7 +128,7 @@ and paste this in configuration section
 ```
 save it then close it
 
-d) now to open yarn-site.xml by
+d) now open yarn-site.xml by
 ```bash
 gedit yarn-site.xml
 ```
@@ -151,7 +151,7 @@ and paste this in configuration section
 <value>${yarn.resourcemanager.hostname}:8032</value>
 </property>
 ```
-save it then close it
+save it, then close it
 
 e) now open hadoop-env.sh by
 ```bash
