@@ -9,12 +9,12 @@ MAKE SURE YOU ARE IN /home/{username} directory
 
 Update and upgrade your Ubuntu system for the latest security patches and software updates.
 
-# Refresh the local package index
+# Refresh the local package index 😊
 ```bash
 sudo apt update
 ```
 
-# Upgrade installed packages to their latest versions
+# Upgrade installed packages to their latest versions 😊
 ```bash
 sudo apt upgrade
 ```
@@ -46,7 +46,7 @@ After completion extract file and move it to /usr/local/hadoop
 tar xzf hadoop-3.3.6.tar.gz
 sudo mv hadoop-3.3.6 /usr/local/hadoop
 ```
-# Configure bashrc file
+# Configure bashrc file 😮‍💨
 run
 ```bash
 gedit ~/.bashrc
@@ -71,7 +71,7 @@ to verify run
 ```bash
 hadoop version
 ```
-# Configure hadoop files
+# Configure hadoop files 😮‍💨😮‍💨
 note : it may vary as per your Requirements
 run this to go to hadoop directory
 ```bash
@@ -205,7 +205,7 @@ for ResourceManager
 http://localhost:8088
 ```
 
-# Hadoop setup complete successfully 😊
+# Hadoop setup complete successfully 😎
 
 to stop all services run
 ```bash
