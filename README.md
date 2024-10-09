@@ -39,7 +39,7 @@ sudo apt install openjdk-11-jdk -y
 
 # Download Hadoop
 ```bash
-wget https://dlcdn.apache.org/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz
+wget https://dlcdn.apache.org/hadoop/common/hadoop-3.4.0/hadoop-3.4.0.tar.gz
 ```
 After completion extract file and move it to /usr/local/hadoop
 ```bash
